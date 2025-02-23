@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs that use the OCCURS DEPENDING ON clause.  The bug arises from potential index out-of-bounds issues when the number of table entries changes during runtime. The solution shows how to prevent such errors using proper index checking and handling of dynamic table sizes.
